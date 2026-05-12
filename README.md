@@ -4,8 +4,8 @@
 ### *Turning raw data into decisions, one model at a time.*
 
 ![Visitors](https://komarev.com/ghpvc/?username=pavan-kalaganda&color=blueviolet&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan_Kalaganda-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/LINKEDIN_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan_Kalaganda-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kalaganda-pavan-07b28b288)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://pavan-kalaganda.github.io)
 [![Email](https://img.shields.io/badge/Email-142301014@smail.iitpkd.ac.in-red?style=flat-square&logo=gmail&logoColor=white)](mailto:142301014@smail.iitpkd.ac.in)
 
 ---
@@ -60,7 +60,7 @@
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
       <img src="https://img.shields.io/badge/Random_Forest-228B22?style=flat-square" alt="Random Forest"/>
       <br/><br/>
-      <a href="https://github.com/pavan-kalaganda/song-genre-prediction">[Repo]</a>
+      <!-- a href="https://github.com/pavan-kalaganda/song-genre-prediction">[Repo]</a -->
     </td>
     <td align="center" width="33%">
       <b>📈 Nifty 50 Stock Predictor</b><br/><br/>
@@ -69,7 +69,7 @@
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
       <img src="https://img.shields.io/badge/Ridge_Regression-grey?style=flat-square" alt="Ridge Regression"/>
       <br/><br/>
-      <a href="https://github.com/pavan-kalaganda/nifty50-stock-prediction">[Repo]</a>
+      <!-- a href="https://github.com/pavan-kalaganda/nifty50-stock-prediction">[Repo]</a -->
     </td>
     <td align="center" width="33%">
       <b>🏎️ F1 Analytics Dashboard</b><br/><br/>
@@ -78,7 +78,7 @@
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
       <br/><br/>
-      <a href="https://github.com/pavan-kalaganda/f1-analytics-dashboard">[Repo]</a>
+      <!-- a href="https://github.com/pavan-kalaganda/f1-analytics-dashboard">[Repo]</a -->
     </td>
   </tr>
 </table>
