@@ -54,6 +54,15 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <b>🎵 Song Genre Prediction</b><br/><br/>
+      Genre classifier using audio features (tempo, energy, loudness); benchmarked Logistic Regression vs Random Forest<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/Random_Forest-228B22?style=flat-square" alt="Random Forest"/>
+      <br/><br/>
+      <a href="https://github.com/pavan-kalaganda/song-genre-prediction">[Repo]</a>
+    </td>
+    <td align="center" width="33%">
       <b>📈 Nifty 50 Stock Predictor</b><br/><br/>
       End-to-end time-series ML pipeline forecasting next-day Nifty 50 prices with R² = 0.98<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -71,15 +80,6 @@
       <br/><br/>
       <a href="https://github.com/pavan-kalaganda/f1-analytics-dashboard">[Repo]</a>
     </td>
-    <td align="center" width="33%">
-      <b>🔍 Numerical Search Engine</b><br/><br/>
-      Hybrid BM25 + BERT retrieval system for structured numerical queries over Wikipedia<br/><br/>
-      <img src="https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="BERT"/>
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-      <img src="https://img.shields.io/badge/Wikidata-006699?style=flat-square&logo=wikidata&logoColor=white" alt="Wikidata"/>
-      <br/><br/>
-      <a href="https://github.com/pavan-kalaganda/numerical-search-engine">[Repo]</a>
-    </td>
   </tr>
 </table>
 
@@ -91,10 +91,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pavan-kalaganda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=pavan-kalaganda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-kalaganda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pavan-kalaganda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
     </td>
   </tr>
   <tr>
@@ -131,8 +131,8 @@
   LINKEDIN_HANDLE        → your LinkedIn profile slug (e.g. pavan-kalaganda-123abc)
   PORTFOLIO_URL          → your personal website / portfolio URL (if none, remove the badge)
   REPO_NAME (×3)         → replace in project table:
+                           song-genre-prediction
                            nifty50-stock-prediction
                            f1-analytics-dashboard
-                           numerical-search-engine
   CURRENT_LEARNING_FOCUS → currently set to "Transformers, LLMOps & production-grade RAG systems"
 -->
