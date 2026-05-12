@@ -5,7 +5,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=pavan-kalaganda&color=blueviolet&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan_Kalaganda-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kalaganda-pavan-07b28b288)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://pavan-kalaganda.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://pavan-kalaganda.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-142301014@smail.iitpkd.ac.in-red?style=flat-square&logo=gmail&logoColor=white)](mailto:142301014@smail.iitpkd.ac.in)
 
 ---
